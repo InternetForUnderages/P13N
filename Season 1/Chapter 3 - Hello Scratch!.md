@@ -1,7 +1,8 @@
 # S1 - Chapter 3 - Hello Scratch
 
-
+Never
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzc4NjI2OSwtMTAyMDE1OTgwXX0=
+eyJoaXN0b3J5IjpbMTEyMDgzMzUwMSwtMzI3Nzg2MjY5LC0xMD
+IwMTU5ODBdfQ==
 -->
