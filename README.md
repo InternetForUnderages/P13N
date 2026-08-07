@@ -12,9 +12,9 @@ Fake credientals created for your system :D
 [sudo]Password?
 Verifying Age credentials...
 [ACCESS GRANTED : Credentials seems false, but access is stable]
-P13N is a sci-fi story about an 8 year old child that learns coding but restricted by an special protocol named P13N that doesn't let under 13 users access internet and traps 
+P13N is a sci-fi story about an 8 year old child that learns coding but restricted by an special protocol named P13N that doesn't let under 13 users access internet and trapps them in doomscrolling and brainrot, while he wants to access modern docs, No more spoil, Start reading
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg2NzM0NDksLTE5MDk3OTMyNV19
+eyJoaXN0b3J5IjpbLTUyNTQ0ODY5NSwtMTkwOTc5MzI1XX0=
 -->
