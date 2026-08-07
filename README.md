@@ -1,8 +1,8 @@
-```python
-print("SMTH");
-def hello(you):
-	pri
+# P13N | Pain of a number, Age
+```bash
+~ $ sudo p13n desc
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk3OTMyNV19
+eyJoaXN0b3J5IjpbLTEwMDUxOTQ2NzcsLTE5MDk3OTMyNV19
 -->
