@@ -17,9 +17,13 @@ Verifying Age credentials...
 ## For parents
 P13N is a perfect story for you. to understand how child safety works and behind-the-decisions.
 ## For safety experts
-Understand the difference between on-the-paper and r
+Understand the difference between on-the-paper and reality
+## For chilling guys
+Read it.
+## For EVERYONE
+Read it!!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTkzNDAyNSwxOTQ4NDYwMDc5LC0xOT
-A5NzkzMjVdfQ==
+eyJoaXN0b3J5IjpbOTAyNTkzMDMyLDE5NDg0NjAwNzksLTE5MD
+k3OTMyNV19
 -->
