@@ -11,8 +11,8 @@ Fake credientals created for your system :D
 ~ $ sudo p13n desc
 [sudo]Password?
 Verifying Age credentials...
-[ACCESS GRANTED : Credentials seems fake, but access is stable]
+[ACCESS GRANTED : Credentials seems false, but access is stable]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxNjM4MjIzLC0xOTA5NzkzMjVdfQ==
+eyJoaXN0b3J5IjpbLTgxMTgyMDkzMywtMTkwOTc5MzI1XX0=
 -->
