@@ -3,8 +3,11 @@
 ~ $ sudo p13n desc
 [sudo]Password?
 Verifying Age credentials...
-[ACCESS DENIED, ]
+[ACCESS DENIED : MINIMUM AGE TO USE INTERNET IS 13]
+~ $ source fakeage.sh 14 p13nV4
+Making credentials...
+PR[]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTIzMjA2OSwtMTkwOTc5MzI1XX0=
+eyJoaXN0b3J5IjpbLTExNzc5NTYzOTMsLTE5MDk3OTMyNV19
 -->
